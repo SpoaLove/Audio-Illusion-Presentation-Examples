@@ -1,0 +1,6 @@
+Copy
+# Ignore .wav files
+*.wav
+
+# Ignore Mac cache files
+.DS_Store
